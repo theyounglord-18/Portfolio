@@ -1,0 +1,41 @@
+.card{
+    display: flex;
+    flex-direction: column;
+    gap:20px;
+    height:100%;
+    width:250px;
+    border:2px solid lightgray;
+    margin: 20px;
+    padding: 10px;
+    border-radius:20px;
+    align-items: center;
+}
+.card:hover{
+    background:white;
+    color: black;
+    cursor: pointer;
+    transform: scale(1.1);
+    transition:0.3s;
+}
+.card h3{
+    background: linear-gradient(270deg,#DF8908 80%,#B415FF 100%);
+    background-clip:text;
+    -webkit-background-clip:text;
+    -webkit-text-fill-color: transparent;
+}
+.card img{
+    height:150px;
+    width:250px;
+}
+.card button{
+    height:40px;
+    width:100px;
+    background: linear-gradient(267deg,#DA7C25 0.36%, #B923E1 102.06%);
+    border:1px solid transparent;
+    border-radius: 30px;
+    color: white;
+}
+.card button a{
+    text-decoration: none;
+    color: #fff;
+}
