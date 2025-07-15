@@ -13,25 +13,19 @@ const projects=[
     },
     {
         id:2,
-        imageUrl:"https://ehopper.com/wp-content/uploads/best-ecommerce-website-design-examples-1800x1013.png",
-        name:"NxtTrends E-com",
-        description:"Helpful for the users to view the products and add them into the cart And sort the products based on there prices, ratings and categories.",
-        projectUrl:"https://devwikatrends.ccbp.tech/login"
+        imageUrl:"https://res.cloudinary.com/dolw4wncb/image/upload/v1752561332/Digital-India-Blog_2X1-1_1_f8e0u7.jpg",
+        name:"Creative Digital Agency",
+        description:"Landing Page for a creative digital Agency",
+        projectUrl:"https://cda.niat.tech/"
     },
     {
         id:3,
-        imageUrl:"https://screenshots.codesandbox.io/kuzd2s/0.png",
-        name:"Jobby Application",
-        description:"Jobby is the app built in the name of flexibility and transparency through which you can access hundreds of job opportunities every day.",
-        projectUrl:"https://devjobby.ccbp.tech/login"
+        imageUrl:"https://res.cloudinary.com/dolw4wncb/image/upload/v1752561580/download_bknvkb.jpg",
+        name:"WikiSearch",
+        description:"Wikipedia Serach engine",
+        projectUrl:"https://kushaljs.niat.tech/"
     },
-    {
-        id:4,
-        imageUrl:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXl9EqF0Dbu9oxIz9d_Fe1EAjyo1_bePQC1A&s",
-        name:"AI-Based Web Application with React.js & AWS Cloud APIs",
-        description:"Spot Faces, Age, Gender & Emotions, Discover Objects - Identify What's Around and Find Celebrities - Spot the Stars.",
-        projectUrl:"https://reactvthai.ccbp.tech/"
-    }
+     
 ]
 
 const Projects = () => {

@@ -16,7 +16,11 @@ const About = () => {
         </div>
         <div className="about-right">
             <div className="about-para">
-                <p>I recently graduated with a degree in Computer Science from Vaagdevi College of Engineering, Warangal, Telangana. I have developed several websites that are fully responsive and dynamic, showcasing my ability to create seamless and adaptive user experiences.</p>
+                <p>I'm an aspiring techie and a first-year college student @ NIAT with a passion for building, breaking, and learning everything tech. I'm currently diving deep into the world of DevOps, exploring tools and practices that drive modern development and deployment , with a particular focus on Google Cloud Platform (GCP).
+
+I have a solid foundation in HTML, CSS, JavaScript, Python, and MySQL, which helps me bridge the gap between development and operations. Whether it's writing frontend code, scripting with Python, or managing databases, I enjoy solving problems and learning by doing.
+
+As I continue my journey, I'm excited to grow my skills, build real-world projects, and collaborate with like-minded developers to make a meaningful impact in the tech world.</p>
             </div>
             <div className="about-skills">
                 <div className="about-skill">
