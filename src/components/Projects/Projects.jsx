@@ -23,7 +23,7 @@ const projects=[
         imageUrl:"https://res.cloudinary.com/dolw4wncb/image/upload/v1752561580/download_bknvkb.jpg",
         name:"WikiSearch",
         description:"Wikipedia Serach engine",
-        projectUrl:"https://kushaljs.niat.tech/"
+        projectUrl:"https://wikiport.niat.tech/"
     },
      
 ]
