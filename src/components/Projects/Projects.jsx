@@ -9,7 +9,7 @@ const projects=[
         imageUrl:"https://cdn.dribbble.com/userupload/11224083/file/original-3d2769866b4db0ae0c4fc7a7b1ed3687.png?resize=450x338&vertical=center",
         name:"Crypto-verse Application With React.Js and Redux Toolkit",
         description:"Provides the information like total number of cryptocurrencies, total markets and market caps.",
-        projectUrl:"https://crypto-verse-app.vercel.app/"
+        projectUrl:"http://34.28.123.93"
     },
     {
         id:2,
