@@ -28,7 +28,8 @@ As I continue my journey, I'm excited to grow my skills, build real-world projec
                     <p>JavaScript</p><hr style={{width:"70%"}}/>
                     <p>Docker</p><hr style={{width:"80%"}}/>
                     <p>Jenkins</p><hr style={{width:"75%"}}/>
-                    
+                    <p>MySQL</p><hr style={{width:"70%"}}/>
+                    <p>python</p><hr style={{width:"80%"}}/>
                 </div>
             </div>
         </div>
